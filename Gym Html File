@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Gym Update</title>
+    <link rel="stylesheet" href="gym.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#monday">Monday</a></li>
+                <li><a href="#tuesday">Tuesday</a></li>
+                <li><a href="#wednesday">Wednesday</a></li>
+                <li><a href="#thursday">Thursday</a></li>
+                <li><a href="#friday">Friday</a></li>
+                <li><a href="#saturday">Saturday</a></li>
+                <li><a href="#sunday">Sunday</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="monday">
+            <h2>Monday-Chest/Tricep Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="monday-exercises">
+                    <tr>
+                        <td>Bench Press</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Incline Dumbbell Press</td>
+                        <td>3</td>
+                        <td>10-15</td>
+                    </tr>
+                    <tr>
+                        <td>Cable Flyes Decline</td>
+                        <td>3</td>
+                        <td>12-15</td>
+                    </tr>
+                    <tr>
+                        <td>Peck Deck Fly</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                   
+                    <tr>
+                        <td>Tricep Row push down</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                    <tr>
+                        <td>Tricep Dumbbell extension</td>
+                        <td>3</td>
+                        <td>10-12</td>
+
+                    <tr>
+                          <td>Tricep face pull</td>
+                          <td>3</td>
+                          <td>10-12</td>
+                    </tr>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="tuesday">
+            <h2>Tuesday--Back/Bicep Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="tuesday-exercise">
+                    <tr>
+                        <td>Vertical Pull</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Horizontal Pull</td>
+                        <td>3</td>
+                        <td>10-15</td>
+                    </tr>
+                    <tr>
+                        <td>Bent Over Dumbbell Rows</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Deadlift</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                   
+                    <tr>
+                        <td>Dumbbell Bicep curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                    <tr>
+                        <td>Preacher Bicep curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr><tr>
+                        <td>Barbell Bicep curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr><tr>
+                        <td>Rope Hammer Curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </section>
+        <section id="wednesday">
+            <h2>Wednesday--Shoulder Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="Shoulder-exercises">
+                    <!-- exercises will be rendered here -->
+                    <tr>
+                        <td>Dumbbell Press</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Side Lateral Raises</td>
+                        <td>3</td>
+                        <td>10-15</td>
+                    </tr>
+                    <tr>
+                        <td>Front lateral Raises</td>
+                        <td>3</td>
+                        <td>12-15</td>
+                    </tr>
+                    <tr>
+                        <td>Peck Deck Fly back</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                   
+                    <td>Shoulder face pull</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="thursday">
+            <h2>Thursday--Leg Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="thursday-exercises">
+                    <!-- exercises will be rendered here -->
+                    <tr>
+                        <td>Squats</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Lunges</td>
+                        <td>3</td>
+                        <td>10-15</td>
+                    </tr>
+                    <tr>
+                        <td>Quads Machine</td>
+                        <td>3</td>
+                        <td>12-15</td>
+                    </tr>
+                    <td>Smith Machine Quads</td>
+                    <td>3</td>
+                    <td>10-12</td>
+                </tr>
+                    <tr>
+                        <td>Dumbbell Romainan Deadlift</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Hamstring Machine</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Calves</td>
+                        <td>  3</td>
+                        <td>Till failure</td>
+                    </tr>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="friday">
+            <h2>Friday--Chest/Tricep Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="friday-exercises">
+                    <!-- exercises will be rendered here -->
+                    <tr>
+                        <td>Bench Press</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Incline Dumbbell Press</td>
+                        <td>3</td>
+                        <td>10-15</td>
+                    </tr>
+                    <tr>
+                        <td>Cable Flyes Decline</td>
+                        <td>3</td>
+                        <td>12-15</td>
+                    </tr>
+                    <tr>
+                        <td>Peck Deck Fly</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                   
+                    <tr>
+                        <td>Tricep Row push down</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                    <tr>
+                        <td>Tricep Dumbbell extension</td>
+                        <td>3</td>
+                        <td>10-12</td>
+
+                    <tr>
+                          <td>Tricep face pull</td>
+                          <td>3</td>
+                          <td>10-12</td>
+                    </tr>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="saturday">
+            <h2>Saturday--Back/Bicep Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="saturday-exercises">
+                    <!-- exercises will be rendered here -->
+                    <tr>
+                        <td>Vertical Pull</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Horizontal Pull</td>
+                        <td>3</td>
+                        <td>10-15</td>
+                    </tr>
+                    <tr>
+                        <td>Bent Over Dumbbell Rows</td>
+                        <td>  3</td>
+                        <td>8-12</td>
+                    </tr>
+                    <tr>
+                        <td>Deadlift</td>
+                        <td>3</td>
+                        <td>8-12</td>
+                    </tr>
+                    
+                    <tr>
+                        <td>Dumbbell Bicep curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                    <tr>
+                        <td>Preacher Bicep curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr><tr>
+                        <td>Barbell Bicep curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr><tr>
+                        <td>Rope Hammer Curl</td>
+                        <td>3</td>
+                        <td>10-12</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="sunday">
+            <h2>Sunday--Cardio Day</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Exercise</th>
+                        <th>Sets</th>
+                        <th>Reps</th>
+                    </tr>
+                </thead>
+                <tbody id="sunday-exercises">
+                    <!-- exercises will be rendered here -->
+                    <tr>Running </tr>
+                    <td>4 Round</td>
+                    <td>
+                        5km
+                    </td>
+                    <td>Full Body Streching</td>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
